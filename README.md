@@ -1,5 +1,5 @@
-### qa-assesment using Testcafe
-#### Feature to automate :
-<p>login with registered account</p>
-<p>logout</p>
-<p>login with non registered account</p>
+### qa-assesment Automation using Testcafe
+#### Feature :
+<p>- login with registered account</p>
+<p>- logout</p>
+<p>- login with non registered account</p>
