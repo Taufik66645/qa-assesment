@@ -1,4 +1,4 @@
-### qa-assesment Automation using Testcafe
+###  Automation using Testcafe
 #### Feature :
 <p>- login with registered account</p>
 <p>- logout</p>
