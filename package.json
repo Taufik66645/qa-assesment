@@ -1,0 +1,17 @@
+{
+  "name": "qa-assesment",
+  "version": "1.0.0",
+  "description": "QA Assesment - Taufik Hidayat",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Taufik Hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.17.1"
+  }
+}
